@@ -1,0 +1,71 @@
+body{
+    background-color: #FED76660;
+    color: #009FB7;
+}
+
+#entry,#oat,#pkl,#y23{
+    margin-top: 2vh;
+    height: 80vh;
+    margin-bottom: 5vh;
+
+}
+
+.carousel-caption{
+    background-color: #7FFFD470;
+    color: #000000;
+    width: fit-content;
+    padding: 1vw;
+    margin: auto;
+}
+
+.list-group-item {
+    font-size: large;
+    font-weight: 600;
+    text-align: center;
+}
+
+.card {
+    margin: auto;
+    margin-top: 4vh;
+    text-align: justify;
+}
+
+#one {
+    color: #372549;
+    background-color: #5FDD9D70;
+    text-align: justify;
+}
+
+#two {
+    color: #774C60;
+    background-color: #76F7BF70;
+    text-align: justify;
+}
+
+#three {
+    color: #B75D69;
+    background-color: #7FFFD470;
+    text-align: justify;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #40BCD855;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#webName{
+    margin-left: 1rem;
+    color: #23395B;
+}

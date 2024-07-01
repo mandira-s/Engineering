@@ -1,0 +1,61 @@
+body{
+    background-color: #FED76660;
+    color: #390099;
+}
+
+#heading{
+    background-color: #224870;
+    color: #E4E3D3;
+    width: fit-content;
+    font-size: large;
+    text-align: center;
+    padding: 1vw;
+    margin: auto;
+    margin-top: 3vw;
+    border:7px double white;
+    border-radius: 2vw;
+    text-align: center;
+}
+
+
+.accordion{
+    margin-top: 5vh;
+    width: 70vw;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    font-size: large;
+    margin-bottom: 7vh;
+    text-align: justify;
+}
+.accordion-button{
+    font-size: large;
+    color: #8F3985;
+    font-weight: bolder;
+}
+
+.accordion-body{
+    background-color: #44CFCB30;
+    color: #122C34;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #40BCD855;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#webName{
+    margin-left: 1rem;
+    color: #23395B;
+}
